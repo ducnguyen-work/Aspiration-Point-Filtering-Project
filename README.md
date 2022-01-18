@@ -25,5 +25,5 @@ The first sheet is named "diem_chuan", will record the standard scores for high 
 
 The second sheet is “danh_sach_1”, in which the names of students who pass into school 1 are listed, sorted by scores from highest to lowest. The following sheets are similar to the matriculation lists of schools 2, 3, 4, 5.
 
-## Contact: nguyenhuynhduc.work@gmail.com
+### Contact: nguyenhuynhduc.work@gmail.com
 
